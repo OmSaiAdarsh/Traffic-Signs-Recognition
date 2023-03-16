@@ -1,5 +1,5 @@
 # Traffic-Signs-Recognition
-This is a complete project which helps autonomous cars to identify the traffic signs.\n
+This is a complete project which helps autonomous cars to identify the traffic signs.__
 This projects includes building a convolutional Neural Network and get it trained with the train data and then test the data to get to know the efficiency.
 The Training and test is data is taken from kaggle. 
 This Dataset has around 50k images with labels associated with it. It contains 43 different classes of ttraffic signs.
