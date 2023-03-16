@@ -1,4 +1,5 @@
 # Traffic-Signs-Recognition
+
 This is a complete project which helps autonomous cars to identify the traffic signs.<br />
 This projects includes building a convolutional Neural Network and get it trained with the train data and then test the data to get to know the efficiency.<br />
 The Training and test is data is taken from kaggle. <br />
@@ -11,3 +12,6 @@ In order to use the model for different images, a **GUI** is developed so that i
 3.DropOut layer<br />
 4.Flatten Layer**(to flatten the model).<br />
 **GUI is built using tkinter.**<br />
+
+**GUI is built using tkinter.**
+
