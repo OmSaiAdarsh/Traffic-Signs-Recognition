@@ -11,7 +11,6 @@ In order to use the model for different images, a **GUI** is developed so that i
 2.Maxpool2D layer<br />
 3.DropOut layer<br />
 4.Flatten Layer**(to flatten the model).<br />
-**GUI is built using tkinter.**<br />
 
 **GUI is built using tkinter.**
 
